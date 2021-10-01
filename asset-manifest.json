@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Jong-Hoon-Park/MOVIE_APP_2021/static/css/main.e7033213.chunk.css",
+    "main.js": "/Jong-Hoon-Park/MOVIE_APP_2021/static/js/main.a21323d7.chunk.js",
+    "main.js.map": "/Jong-Hoon-Park/MOVIE_APP_2021/static/js/main.a21323d7.chunk.js.map",
+    "runtime-main.js": "/Jong-Hoon-Park/MOVIE_APP_2021/static/js/runtime-main.49ae5711.js",
+    "runtime-main.js.map": "/Jong-Hoon-Park/MOVIE_APP_2021/static/js/runtime-main.49ae5711.js.map",
+    "static/js/2.3cd8eed0.chunk.js": "/Jong-Hoon-Park/MOVIE_APP_2021/static/js/2.3cd8eed0.chunk.js",
+    "static/js/2.3cd8eed0.chunk.js.map": "/Jong-Hoon-Park/MOVIE_APP_2021/static/js/2.3cd8eed0.chunk.js.map",
+    "index.html": "/Jong-Hoon-Park/MOVIE_APP_2021/index.html",
+    "static/css/main.e7033213.chunk.css.map": "/Jong-Hoon-Park/MOVIE_APP_2021/static/css/main.e7033213.chunk.css.map",
+    "static/js/2.3cd8eed0.chunk.js.LICENSE.txt": "/Jong-Hoon-Park/MOVIE_APP_2021/static/js/2.3cd8eed0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49ae5711.js",
+    "static/js/2.3cd8eed0.chunk.js",
+    "static/css/main.e7033213.chunk.css",
+    "static/js/main.a21323d7.chunk.js"
+  ]
+}
